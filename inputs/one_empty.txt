@@ -1,0 +1,3 @@
+blue,blue,red,red
+red,red,blue,blue
+,

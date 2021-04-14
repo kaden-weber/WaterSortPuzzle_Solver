@@ -1,0 +1,14 @@
+cyan,cyan,dark green,blue
+gray,green,pink,purple
+brown,red,purple,orange
+orange,red,pink,orange
+blue,yellow,red,dark green
+dark green,brown,dark green,yellow
+lime,red,purple,brown
+lime,pink,purple,lime
+blue,cyan,gray,green
+green,gray,yellow,brown
+blue,lime,yellow,gray
+orange,pink,cyan,green
+,
+,
